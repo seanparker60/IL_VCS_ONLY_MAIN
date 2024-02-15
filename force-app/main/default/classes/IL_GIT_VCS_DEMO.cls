@@ -7,10 +7,5 @@ public static void firstMethod(){
     
 }
 
-public static void SecondMethod(){
-
-    
-}
-
 
 }
