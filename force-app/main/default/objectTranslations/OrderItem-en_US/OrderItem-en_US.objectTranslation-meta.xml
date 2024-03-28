@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Copy of Order Product Layout</layout>
+        <sections>
+            <label></label>
+            <section>Delivery Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Product Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Order Product Layout</layout>
+        <sections>
+            <label></label>
+            <section>Admin Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Discounts</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Item Group Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Pricing</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Product Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Shipping Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Subscription Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Validations</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>
